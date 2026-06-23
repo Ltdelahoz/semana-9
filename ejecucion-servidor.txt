@@ -1,0 +1,10 @@
+Al ejecutar node server.js aparece:
+Servidor ejecutándose en puerto 3000
+
+Ruta / → muestra "Servidor activo y funcionando"
+Ruta /estado → devuelve:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+

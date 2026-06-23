@@ -1,0 +1,9 @@
+Sistema operativo: Administra recursos y permite ejecutar aplicaciones.
+
+Node.js: Entorno que interpreta JavaScript en el servidor.
+
+Aplicación server.js: Código que define rutas y respuestas.
+
+Puerto: Punto de comunicación para solicitudes.
+
+Logs: Registros de actividad y errores para monitoreo.
